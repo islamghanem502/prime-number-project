@@ -1,0 +1,7 @@
+F:\projects\prime numbers\prime numbers\bin\Debug\prime numbers.exe.config
+F:\projects\prime numbers\prime numbers\bin\Debug\prime numbers.exe
+F:\projects\prime numbers\prime numbers\bin\Debug\prime numbers.pdb
+F:\projects\prime numbers\prime numbers\obj\Debug\prime numbers.csprojAssemblyReference.cache
+F:\projects\prime numbers\prime numbers\obj\Debug\prime numbers.csproj.CoreCompileInputs.cache
+F:\projects\prime numbers\prime numbers\obj\Debug\prime numbers.exe
+F:\projects\prime numbers\prime numbers\obj\Debug\prime numbers.pdb
